@@ -1,0 +1,10 @@
+{
+  "name": "aryan ai app",
+  "description": "A high-performance, AI-driven development environment for generating, refactoring, and exploring code using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
